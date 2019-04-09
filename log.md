@@ -9,14 +9,14 @@
 
 **Link to work:** https://codepen.io/vallejord/full/gEzgZg
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: april 9, 2019
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Added a couple of fields , dropdown , ad buttons to survey page
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I feel really slow
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://codepen.io/vallejord/full/gEzgZg
 
 
 ### Day 1: June 27, Monday
