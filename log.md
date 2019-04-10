@@ -19,12 +19,11 @@
 **Link(s) to work**: https://codepen.io/vallejord/full/gEzgZg
 
 
-### Day 1: June 27, Monday
+### Day 3: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Termine los requisitos basicos de la encuesta(hoy agregue un campo para texto y unas casillas para tildar, y el boton de enviar), ahora me falta darle estilo con ccs3.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** : Hoy trabajé mas eficientemente.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. https://codepen.io/vallejord/full/gEzgZg
