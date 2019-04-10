@@ -19,7 +19,7 @@
 **Link(s) to work**: https://codepen.io/vallejord/full/gEzgZg
 
 
-### Day 3: June 27, Monday
+### Day 3: Abril 10, Miercoles
 
 **Today's Progress**: Termine los requisitos basicos de la encuesta(hoy agregue un campo para texto y unas casillas para tildar, y el boton de enviar), ahora me falta darle estilo con ccs3.
 
