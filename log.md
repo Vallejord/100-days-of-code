@@ -27,3 +27,13 @@
 
 **Link(s) to work**
 1. https://codepen.io/vallejord/full/gEzgZg
+
+### Day 4: Abril 11, Miercoles
+
+**Today's Progress**: Estuve haciendo markup de un ejercicio de MDN(Mozilla Developer network) con etiquetas de texto un poco mas inusales.
+Listas de definiciones, abreviaciones,etc
+
+**Thoughts** : Lo necesitaba, siempre siento que aun no tengo la base.
+
+**Link(s) to work**
+1. Fue local asi que cuando la termine la subo a code pen.
