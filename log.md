@@ -28,7 +28,7 @@
 **Link(s) to work**
 1. https://codepen.io/vallejord/full/gEzgZg
 
-### Day 4: Abril 11, Miercoles
+### Day 4: Abril 11, Jueves
 
 **Today's Progress**: Estuve haciendo markup de un ejercicio de MDN(Mozilla Developer network) con etiquetas de texto un poco mas inusales.
 Listas de definiciones, abreviaciones,etc
@@ -37,3 +37,11 @@ Listas de definiciones, abreviaciones,etc
 
 **Link(s) to work**
 1. Fue local asi que cuando la termine la subo a code pen.
+
+### Day 5: Abril 13, Sabado
+
+**Today's Progress**: Repaso usando selectores de CSS. Pseudo-classes, combinaciones, seleccionados por atributos y valores
+
+**Thoughts** : Muy util.
+**Link(s) to work**
+
