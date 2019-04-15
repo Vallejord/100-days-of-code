@@ -45,3 +45,10 @@ Listas de definiciones, abreviaciones,etc
 **Thoughts** : Muy util.
 **Link(s) to work**
 
+### Day 6: Abril 15, Lunes
+
+**Today's Progress**: Repaso de CSS. Valores relativos y absolutas. Tambien intente mejorar el layout de la forma pero no anduvo bien.
+
+**Thoughts** : Muy util.
+**Link(s) to work**
+
