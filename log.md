@@ -52,3 +52,23 @@ Listas de definiciones, abreviaciones,etc
 **Thoughts** : Muy util.
 **Link(s) to work**
 
+### Day 7: Abril 17 Miercoles
+
+**Today's Progress**: Probando layout de 4 cuadrados.
+
+**Thoughts** : Muy util.
+**Link(s) to work**
+
+### Day 8: Abril 18, Jueves
+
+**Today's Progress**: Comienzo de landing page en freecode camp
+
+**Thoughts** : Tratando de mejorar.
+**Link(s) to work** https://codepen.io/vallejord/pen/YMaJXz
+
+### Day 9: Abril 19, viernes
+
+**Today's Progress**:  landing page en freecode camp + embing iframes,objects
+
+**Thoughts** : 
+**Link(s) to work** 
