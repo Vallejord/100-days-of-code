@@ -76,7 +76,9 @@ Listas de definiciones, abreviaciones,etc
 ### Day 10: Abril 21, domingo
 
 **Today's Progress**:  landing page en freecode camp , layout de mdn
+
 **Thoughts** : cada vez parece q se menos,pero no es asi.
+
 **Link(s) to work** https://codepen.io/vallejord/pen/YMaJXz
 
 ### Day 11: Abril 23, martes
