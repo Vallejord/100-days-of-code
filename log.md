@@ -87,3 +87,8 @@ Listas de definiciones, abreviaciones,etc
 **Thoughts** : 
 **Link(s) to work** 
 
+### Day 12: Abril 25, jueves
+
+**Today's Progress**:   mejoro un poco el uso de flex-box, creo que lo tengo un poco mas claro.
+**Thoughts** : La practica hace al maestro.
+**Link(s) to work** https://codepen.io/vallejord/full/YMaJXz
