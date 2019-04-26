@@ -92,3 +92,9 @@ Listas de definiciones, abreviaciones,etc
 **Today's Progress**:   mejoro un poco el uso de flex-box, creo que lo tengo un poco mas claro.
 **Thoughts** : La practica hace al maestro.
 **Link(s) to work** https://codepen.io/vallejord/full/YMaJXz
+
+### Day 13: Abril 26, viernes
+
+**Today's Progress**:  grid layout de MDN
+**Thoughts** : La practica hace al maestro.
+**Link(s) to work** : trabajo local, en breve pienso retomar uso de github en todas las terminales para subir en repositorios.
