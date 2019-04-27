@@ -98,3 +98,11 @@ Listas de definiciones, abreviaciones,etc
 **Today's Progress**:  grid layout de MDN
 **Thoughts** : La practica hace al maestro.
 **Link(s) to work** : trabajo local, en breve pienso retomar uso de github en todas las terminales para subir en repositorios.
+
+### Day 14: Abril 27, sabado
+
+**Today's Progress**:  aprendiendo el uso orginal de la propiedad float de MDN
+**Thoughts** : En breve voy a retomar los trabajos de freecodecamp para usar lo visto de css layout.
+**Link(s) to work** : trabajo local, pero usando estos ejemplos de codepen https://codepen.io/pen/?&editable=true
+
+
