@@ -105,4 +105,10 @@ Listas de definiciones, abreviaciones,etc
 **Thoughts** : En breve voy a retomar los trabajos de freecodecamp para usar lo visto de css layout.
 **Link(s) to work** : trabajo local, pero usando estos ejemplos de codepen https://codepen.io/pen/?&editable=true
 
+### Day 15: Abril 28, domingo
+
+**Today's Progress**:  revisando posicionamiento en  MDN con ejemplos en codepen
+**Thoughts** : En breve voy a retomar los trabajos de freecodecamp para usar lo visto de css layout.
+**Link(s) to work** : trabajo local
+
 
