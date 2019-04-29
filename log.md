@@ -38,6 +38,8 @@ Listas de definiciones, abreviaciones,etc
 **Link(s) to work**
 1. Fue local asi que cuando la termine la subo a code pen.
 
+
+
 ### Day 5: Abril 13, Sabado
 
 **Today's Progress**: Repaso usando selectores de CSS. Pseudo-classes, combinaciones, seleccionados por atributos y valores
@@ -110,5 +112,11 @@ Listas de definiciones, abreviaciones,etc
 **Today's Progress**:  revisando posicionamiento en  MDN con ejemplos en codepen
 **Thoughts** : En breve voy a retomar los trabajos de freecodecamp para usar lo visto de css layout.
 **Link(s) to work** : trabajo local
+
+### Day 16: Abril 29, lunes
+
+**Today's Progress**:  conociendo legady methods  en  MDN con ejemplos en codepen
+**Thoughts** : En breve voy a retomar los trabajos de freecodecamp para usar lo visto de css layout.
+**Link(s) to work** : jugue con esto https://codepen.io/pen/
 
 
