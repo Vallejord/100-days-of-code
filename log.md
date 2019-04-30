@@ -119,4 +119,10 @@ Listas de definiciones, abreviaciones,etc
 **Thoughts** : En breve voy a retomar los trabajos de freecodecamp para usar lo visto de css layout.
 **Link(s) to work** : jugue con esto https://codepen.io/pen/
 
+### Day 17: Abril 30, martes
+
+**Today's Progress**:  conociendo legady methods  en  MDN con ejemplos en codepen
+**Thoughts** : En breve voy a retomar los trabajos de freecodecamp para usar lo visto de css layout.
+**Link(s) to work** : idem ayer
+
 
