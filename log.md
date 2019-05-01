@@ -125,4 +125,10 @@ Listas de definiciones, abreviaciones,etc
 **Thoughts** : En breve voy a retomar los trabajos de freecodecamp para usar lo visto de css layout.
 **Link(s) to work** : idem ayer
 
+### Day 18: Mayo 1, miercoles
+
+**Today's Progress**:  a punto de terminar pagina de producto de freecodecamp en codepen
+**Thoughts** : Noto alguna mejoria en el layout ,creo q voy a probar trabajar en papel un poco
+**Link(s) to work** : https://codepen.io/vallejord/full/YMaJXz
+
 
