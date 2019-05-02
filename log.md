@@ -132,3 +132,9 @@ Listas de definiciones, abreviaciones,etc
 **Link(s) to work** : https://codepen.io/vallejord/full/YMaJXz
 
 
+### Day 19: Mayo 2, jueves
+
+**Today's Progress**:  termine la pagina de producto de freecode camp
+**Thoughts** : quedo mejor q las anteriores
+**Link(s) to work** : https://codepen.io/vallejord/full/YMaJXz
+
