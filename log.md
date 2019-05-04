@@ -138,3 +138,9 @@ Listas de definiciones, abreviaciones,etc
 **Thoughts** : quedo mejor q las anteriores
 **Link(s) to work** : https://codepen.io/vallejord/full/YMaJXz
 
+
+### Day 20: Mayo 4, sabado
+
+**Today's Progress**:  termine el modulo de css de Mdm, muy bueno
+**Thoughts** : quedo mejor q las anteriores
+**Link(s) to work** : trabajo local.
