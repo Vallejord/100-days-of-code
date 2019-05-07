@@ -144,3 +144,16 @@ Listas de definiciones, abreviaciones,etc
 **Today's Progress**:  termine el modulo de css de Mdm, muy bueno
 **Thoughts** : quedo mejor q las anteriores
 **Link(s) to work** : trabajo local.
+
+### Day 21: Mayo 6, lunes
+
+**Today's Progress**:  comienzo pagina tecnica de freecodecamp
+**Thoughts** : parece mas facil que otros
+**Link(s) to work** : trabajo local.
+
+### Day 22: Mayo 6, martes
+
+**Today's Progress**:   pagina tecnica de freecodecamp
+**Thoughts** : no pude concetrarme mucho, lo acepto, a veces es asi y el trabajo estuvo igual.
+**Link(s) to work** : https://codepen.io/vallejord/full/KLpMYN
+
