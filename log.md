@@ -151,9 +151,20 @@ Listas de definiciones, abreviaciones,etc
 **Thoughts** : parece mas facil que otros
 **Link(s) to work** : trabajo local.
 
-### Day 22: Mayo 6, martes
+### Day 22: Mayo 7, martes
 
 **Today's Progress**:   pagina tecnica de freecodecamp
 **Thoughts** : no pude concetrarme mucho, lo acepto, a veces es asi y el trabajo estuvo igual.
+**Link(s) to work** : https://codepen.io/vallejord/full/KLpMYN
+
+### Day 23: Mayo 8, miercoles
+
+**Today's Progress**:   pagina tecnica de freecodecamp
+**Thoughts** : buena sesion.
+**Link(s) to work** : https://codepen.io/vallejord/full/KLpMYN
+
+### Day 24: Mayo 10,viernes
+**Today's Progress**:   pagina tecnica de freecodecamp
+**Thoughts** : buena sesion.
 **Link(s) to work** : https://codepen.io/vallejord/full/KLpMYN
 
