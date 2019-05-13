@@ -168,3 +168,12 @@ Listas de definiciones, abreviaciones,etc
 **Thoughts** : buena sesion.
 **Link(s) to work** : https://codepen.io/vallejord/full/KLpMYN
 
+### Day 25: Mayo 12,domingo
+**Today's Progress**:   pagina tecnica de freecodecamp , y algunas lectura basica de kali linux
+**Thoughts** :a veces piero un poco el ritmo.
+**Link(s) to work** : https://codepen.io/vallejord/full/KLpMYN
+
+
+
+
+
