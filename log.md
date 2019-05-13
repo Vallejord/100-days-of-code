@@ -173,6 +173,11 @@ Listas de definiciones, abreviaciones,etc
 **Thoughts** :a veces piero un poco el ritmo.
 **Link(s) to work** : https://codepen.io/vallejord/full/KLpMYN
 
+### Day 26: Mayo 13,lunes
+**Today's Progress**:   pagina tecnica de freecodecamp ,complete un par mas de user stories
+**Thoughts** :ya vuelvo al frenesi!
+**Link(s) to work** : https://codepen.io/vallejord/full/KLpMYN
+
 
 
 
