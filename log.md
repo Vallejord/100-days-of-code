@@ -179,6 +179,16 @@ Listas de definiciones, abreviaciones,etc
 **Link(s) to work** : https://codepen.io/vallejord/full/KLpMYN
 
 
+### Day 27: Mayo 15,miercoles
+**Today's Progress**:   pagina tecnica de freecodecamp ,complete un par mas de user stories
+**Thoughts** :sesion agil
+**Link(s) to work** : https://codepen.io/vallejord/full/KLpMYN
+
+### Day 28: Mayo 65, Jueves
+**Today's Progress**:   termine pagina documentacion tecnica de freecodecamp.
+**Thoughts** : Resuelvo mas rapido pero hay mucho que pulir.
+**Link(s) to work** : https://codepen.io/vallejord/full/KLpMYN
+
 
 
 
