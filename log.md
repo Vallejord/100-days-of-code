@@ -197,7 +197,9 @@ Listas de definiciones, abreviaciones,etc
 
 ### Day 30: Mayo 19, Domingo
 **Today's Progress**:  Portfolio personal de freecodecamp, chequeando unidades ,entendiendo Viewport.
+
 **Thoughts** : Mucha lectura de mdn, y analisis del ejemplo .
+
 **Link(s) to work** :
 
 
