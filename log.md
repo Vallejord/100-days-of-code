@@ -45,6 +45,7 @@ Listas de definiciones, abreviaciones,etc
 **Today's Progress**: Repaso usando selectores de CSS. Pseudo-classes, combinaciones, seleccionados por atributos y valores
 
 **Thoughts** : Muy util.
+
 **Link(s) to work**
 
 ### Day 6: Abril 15, Lunes
