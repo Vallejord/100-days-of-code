@@ -184,11 +184,20 @@ Listas de definiciones, abreviaciones,etc
 **Thoughts** :sesion agil
 **Link(s) to work** : https://codepen.io/vallejord/full/KLpMYN
 
-### Day 28: Mayo 65, Jueves
+### Day 28: Mayo 16, Jueves
 **Today's Progress**:   termine pagina documentacion tecnica de freecodecamp.
 **Thoughts** : Resuelvo mas rapido pero hay mucho que pulir.
 **Link(s) to work** : https://codepen.io/vallejord/full/KLpMYN
 
+### Day 29: Mayo 18, Sabado
+**Today's Progress**:   Comienzo de Portfolio personal de freecodecamp, chequeando unidades VH.
+**Thoughts** : Mucha lectura de mdn, y analisis del ejemplo .
+**Link(s) to work** : 
+
+### Day 30: Mayo 19, Domingo
+**Today's Progress**:  Portfolio personal de freecodecamp, chequeando unidades ,entendiendo Viewport.
+**Thoughts** : Mucha lectura de mdn, y analisis del ejemplo .
+**Link(s) to work** :
 
 
 
