@@ -202,5 +202,13 @@ Listas de definiciones, abreviaciones,etc
 
 **Link(s) to work** :
 
+### Day 31: Mayo 20, Lunes
+**Today's Progress**:  Portfolio personal de freecodecamp.
+
+**Thoughts** : Siempre tengo que revisar alguna referncia, le puse enfasis a la eleccion de colores ,es algo que voy a tener que hacer mas
+enserio en algun momento, el diseño en si.
+
+**Link(s) to work** :https://codepen.io/vallejord/full/eaGeMq
+
 
 
