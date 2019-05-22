@@ -210,5 +210,10 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** :https://codepen.io/vallejord/full/eaGeMq
 
+### Day 32: Mayo 21, Martes
+**Today's Progress**:  Portfolio personal de freecodecamp.
 
+**Thoughts** : Tendre la sensacion de saber html5 y css???? jajja
+
+**Link(s) to work** :https://codepen.io/vallejord/full/eaGeMq
 
