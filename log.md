@@ -217,3 +217,10 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** :https://codepen.io/vallejord/full/eaGeMq
 
+### Day 33: Mayo 22, Miecoles
+**Today's Progress**:  Portfolio personal de freecodecamp y responsive images de MDN, no pude hacer el ejercicio pero esta en lista de quehaceres
+
+**Thoughts** : Tendre la sensacion de saber html5 y css???? , igual que ayer, es mucha data
+
+**Link(s) to work** :https://codepen.io/vallejord/full/eaGeMq
+
