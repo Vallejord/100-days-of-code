@@ -224,3 +224,24 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** :https://codepen.io/vallejord/full/eaGeMq
 
+### Day 34: Mayo 24, viernes
+**Today's Progress**:  Portfolio personal de freecodecamp y responsive images de MDN,
+
+**Thoughts** : Linda sesion, Honor Necessity
+
+**Link(s) to work** :https://codepen.io/vallejord/full/eaGeMq
+
+### Day 35: Mayo 26, domingo
+**Today's Progress**:  Portfolio personal de freecodecamp,trate de hostear imagenes
+
+**Thoughts** : Honor Necessity
+
+**Link(s) to work** :https://codepen.io/vallejord/full/eaGeMq
+
+### Day 36: Mayo 28, Martes
+**Today's Progress**:  Portfolio personal de freecodecamp,trate de hostear imagenes
+
+**Thoughts** : Honor Necessity, respect sufficiency
+
+**Link(s) to work** :https://codepen.io/vallejord/full/eaGeMq
+
