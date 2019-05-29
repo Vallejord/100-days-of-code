@@ -245,3 +245,10 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** :https://codepen.io/vallejord/full/eaGeMq
 
+### Day 37: Mayo 29, Miercoles
+**Today's Progress**:  Portfolio personal de freecodecamp,agregue las imagenes con un servicio que permite hsotear imagenes desde googledrive y agregue un smooth scroll;
+
+**Thoughts** : Honor Necessity, respect sufficiency , el resultado esta relativamente bien, es el mejor de los que quedó hasta ahora.
+
+**Link(s) to work** :https://codepen.io/vallejord/full/pmdQVx
+
