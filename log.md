@@ -252,3 +252,17 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** :https://codepen.io/vallejord/full/pmdQVx
 
+### Day 38: Mayo 31, Viernes
+**Today's Progress**:   Termine Portfolio personal de freecodecamp,comence Js de frecode camp, me falta revisar tables de html de mdn
+
+**Thoughts** : Se nota cuando hay seguidilla
+
+**Link(s) to work** :https://codepen.io/vallejord/full/pmdQVx
+
+### Day 39: Junio 1, Sabado
+**Today's Progress**:    Js de frecode camp, me falta revisar tables y formas de html de mdn.
+
+**Thoughts** : Se nota cuando hay seguidilla
+
+**Link(s) to work** :https://codepen.io/vallejord/full/pmdQVx
+
