@@ -266,3 +266,18 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** :https://codepen.io/vallejord/full/pmdQVx
 
+### Day 40: Junio 2, Domingo
+**Today's Progress**:    Js de frecode camp.
+
+**Thoughts** : Quiero complementar con la guia de JS de Mdn
+
+**Link(s) to work** : trabajo Local.
+
+### Day 41: Junio 3, Lunes
+**Today's Progress**:    Js de frecode camp, y tables  de mdn.
+
+**Thoughts** : nada especial
+
+**Link(s) to work** :laburo local
+
+
