@@ -280,4 +280,20 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** :laburo local
 
+### Day 42: Junio 4, Martes
+**Today's Progress**:    Js de frecode camp, y de mdn.
+
+**Thoughts** : Cada explicacion nueva complementa, ya puedo discenir si la data es buena.
+
+**Link(s) to work** :laburo local
+
+### Day 43: Junio 5, Miercoles
+**Today's Progress**:    Js de frecode camp, y de mdn.
+
+**Thoughts** : AvanZANDO.
+
+**Link(s) to work** :laburo local
+
+
+
 
