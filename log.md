@@ -294,6 +294,19 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** :laburo local
 
+### Day 44: Junio 6, Jueves
+**Today's Progress**:    Js de frecode camp, y juego de adivinar numeros de MDN
+
+**Thoughts** : Es tremendo cuando funciona.
+
+**Link(s) to work** :laburo local.
+
+### Day 45: Junio 8, Sabado
+**Today's Progress**:    Js de frecode camp, y juego de adivinar numeros de MDN
+
+**Thoughts** : /%)(&(/%
+
+**Link(s) to work** :laburo local.
 
 
 
