@@ -308,5 +308,12 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** :laburo local.
 
+### Day 46: Junio 10, Lunes
+**Today's Progress**:    Js de frecode camp.
+
+**Thoughts** : /%)(&(/%
+
+**Link(s) to work** :laburo local.
+
 
 
