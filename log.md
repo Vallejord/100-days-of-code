@@ -315,5 +315,11 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** :laburo local.
 
+### Day 47: Junio 11, Martes
+**Today's Progress**:    Js de mdn
+
+**Thoughts** : /%)(&(/%
+
+**Link(s) to work** : en breve me voy a conectar a github y postear los laburos en codepen
 
 
