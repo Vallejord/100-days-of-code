@@ -322,4 +322,18 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : en breve me voy a conectar a github y postear los laburos en codepen
 
+### Day 48: Junio 13, Jueves
+**Today's Progress**:    Js de mdn
+
+**Thoughts** : /%)(&(/%
+
+**Link(s) to work** : en breve me voy a conectar a github y postear los laburos en codepen
+
+### Day 49: Junio 14, Viernes
+**Today's Progress**:    Js de mdn, y cambio de color de un boton con js em codepen
+
+**Thoughts** : Js me cuesta!!!
+
+**Link(s) to work** : https://codepen.io/vallejord/pen/ZdQKXY
+
 
