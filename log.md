@@ -336,4 +336,18 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : https://codepen.io/vallejord/pen/ZdQKXY
 
+### Day 50: Junio 15, Sabado
+**Today's Progress**:    Js de mdn, y cambio de color de un boton con js em codepen
+
+**Thoughts** : Js me cuesta pero la del sabadofue una buena sesion.
+
+**Link(s) to work** : https://codepen.io/vallejord/pen/ZdQKXY
+
+### Day 51: Junio 17, Lunes
+**Today's Progress**:    Js de freecodecamp, tratando de incorporar git
+
+**Thoughts** : 
+
+**Link(s) to work** : https://codepen.io/vallejord/pen/ZdQKXY
+
 
