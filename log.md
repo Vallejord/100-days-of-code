@@ -350,4 +350,18 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : https://codepen.io/vallejord/pen/ZdQKXY
 
+### Day 52: Junio 19, Miercoles
+**Today's Progress**:    Strings de MDN
+
+**Thoughts** : Buena sesion
+
+**Link(s) to work** : loca
+
+### Day 53: Junio 20, Jueves
+**Today's Progress**:    Strings y arrays de MDN + git
+
+**Thoughts** : Buena sesion
+
+**Link(s) to work** : local
+
 
