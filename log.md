@@ -364,4 +364,19 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : local
 
+### Day 54: Junio 21, Viernes
+**Today's Progress**:    comienzo proyecto "Silly Story generator" en mdn y un poco de js de freecodecamp.-
+
+**Thoughts** : Estoy avanzado pero tambien estoy muy verde
+
+**Link(s) to work** : local
+
+
+### Day 55: Junio 23, Domingo
+**Today's Progress**:    Silly Story generator" en mdn y un poco de js de freecodecamp. pronto voy a subir todo a github.-
+
+**Thoughts** : Estoy avanzado pero tambien estoy muy verde
+
+**Link(s) to work** : local
+
 
