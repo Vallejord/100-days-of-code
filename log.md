@@ -379,4 +379,23 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : local
 
+### Day 56: Junio 25, Martes
+**Today's Progress**:    Freecode Camp.
 
+**Thoughts** :  estoy muy verde
+
+**Link(s) to work** : local
+
+### Day 57: Junio 26, Miercoles
+**Today's Progress**:    Freecode Camp.
+
+**Thoughts** :  estoy muy verde
+
+**Link(s) to work** : local
+
+### Day 58: Junio 27, Jueves
+**Today's Progress**:    Freecode Camp y un kata de Codewars
+
+**Thoughts** :  EStuvo muy bueno de de Codewars
+
+**Link(s) to work** : local
