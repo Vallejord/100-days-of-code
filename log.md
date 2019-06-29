@@ -399,3 +399,12 @@ enserio en algun momento, el diseño en si.
 **Thoughts** :  EStuvo muy bueno de de Codewars
 
 **Link(s) to work** : local
+
+### Day 59: Junio 29, Sabado
+**Today's Progress**:    Freecode Camp do while y while loops
+
+**Thoughts** :  Estoy tardando ucho pero aun asi prefiero seguir, no existe el MOMENTO IDEAL; hay que hacerlo.
+
+**Link(s) to work** : local
+
+
