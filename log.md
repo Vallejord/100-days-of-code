@@ -407,4 +407,11 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : local
 
+### Day 60: Junio 30, Domingo
+**Today's Progress**:    Freecode Camp profile sarch en JS, hice un repo en github
+
+**Thoughts** :  Falta menos!!
+
+**Link(s) to work** : 
+
 
