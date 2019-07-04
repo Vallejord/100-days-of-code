@@ -412,6 +412,25 @@ enserio en algun momento, el diseño en si.
 
 **Thoughts** :  Falta menos!!
 
+### Day 61: Julio 1, Lunes
+**Today's Progress**: Freecode Cmap ES6 diferencias
+
+**Thoughts** :  Falta menos!!
+
 **Link(s) to work** : 
+
+### Day 62: Julio 3, Miercoles
+**Today's Progress**: Freecode Cmap ES6 diferencias y comienzo de proyecto a subir a github
+
+**Thoughts** :  Github me cuesta.
+
+**Link(s) to work** : Local
+
+### Day 63: Julio 4, Jueves
+**Today's Progress**: Frontendmentor set up del proyecto
+
+**Thoughts** :  Github me cuesta.
+
+**Link(s) to work** : Local
 
 
