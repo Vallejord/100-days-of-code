@@ -433,4 +433,11 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : Local
 
+### Day 64: Julio 5, Viernes
+**Today's Progress**: Frontendmentor set up del proyecto , init de repositorio local y coneccion con el remoto.
+
+**Thoughts** :  Github me costo un buen rato
+
+**Link(s) to work** : Local
+
 
