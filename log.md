@@ -440,4 +440,18 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : Local
 
+### Day 65: Julio 6, sabado
+**Today's Progress**: Frontendmentor ,avances pequeños y uso de vs code y github
+
+**Thoughts** :  Github me costo un buen rato
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1/blob/master/index.html
+
+### Day 66: Julio 8, sabado
+**Today's Progress**: Frontendmentor ,avances pequeños y uso de vs code y github
+
+**Thoughts** :  Github me costo un buen rato
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1/blob/master/main.css
+
 
