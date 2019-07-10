@@ -447,11 +447,27 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1/blob/master/index.html
 
-### Day 66: Julio 8, sabado
+### Day 66: Julio 8, Lunes
 **Today's Progress**: Frontendmentor ,avances pequeños y uso de vs code y github
 
 **Thoughts** :  Github me costo un buen rato
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1/blob/master/main.css
+
+### Day 67: Julio 9, Martes
+**Today's Progress**: Frontendmentor ,avances pequeños y uso de vs code y github
+
+**Thoughts** :  Github me costo un buen rato pero va queriendo
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1/blob/master/main.css
+
+### Day 68: Julio 10, Miercoles
+**Today's Progress**: Frontendmentor agrege boton y pude subir el branch!!
+
+**Thoughts** :  Github , te dominaré!!! jajajjaja
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+
 
 
