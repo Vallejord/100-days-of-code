@@ -469,5 +469,18 @@ enserio en algun momento, el diseño en si.
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 
+### Day 69: Julio 11, Jueves
+**Today's Progress**: Frontendmentor agrege botones instagram y pude subir el branch!!
+
+**Thoughts** :  Github , te dominaré!!! jajajjaja
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 70: Julio 13, Sabado
+**Today's Progress**: Frontendmentor , no agregue nada interesante, y cheque algunas cosas de github
+
+**Thoughts** :  Github , te dominaré!!! jajajjaja
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 
