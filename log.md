@@ -483,4 +483,31 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
+### Day 71: Julio 14, Domingo
+**Today's Progress**: Frontendmentor , y tratando de aprender a usar method de array.reduce();
+**Thoughts** :  Github , te dominaré!!! jajajjaja
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 72: Julio 16, Martes
+**Today's Progress**: Frontendmentor 
+**Thoughts** :  No pude clonar el repo completo de github en otra maquina.
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 73: Julio 18, Jueves
+**Today's Progress**: Frontendmentor 
+**Thoughts** :  Falta menos.
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 74: Julio 16, Viernes
+**Today's Progress**: Frontendmentor , me faltan los botones de redes sociALES.
+**Thoughts** :  AHHHHHHHHH
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+
+
+
 
