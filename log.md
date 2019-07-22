@@ -501,9 +501,21 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
-### Day 74: Julio 16, Viernes
+### Day 74: Julio 19, Viernes
 **Today's Progress**: Frontendmentor , me faltan los botones de redes sociALES.
 **Thoughts** :  AHHHHHHHHH
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 75: Julio 21, Domingo
+**Today's Progress**: Freecode camps me tuve varado 5 dias , y logre pasar algo usando rest operators
+**Thoughts** :  AHHHHHHHHH , ahora si, que alivio
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 76: Julio 22, Lunes
+**Today's Progress**: Mas Freecodecamp. Retomo el layout.r1d
+**Thoughts** :  Falta menos!!
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
