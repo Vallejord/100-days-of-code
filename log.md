@@ -519,6 +519,12 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
+### Day 77: Julio 23, Martes
+**Today's Progress**: Js Freecodecamp. Retomo el layout con grid , hice un branch nuevo en github.
+**Thoughts** :  Tengo que planificar antes de emepezar.
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
 
 
 
