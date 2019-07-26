@@ -531,6 +531,12 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
+### Day 79: Julio 26,Viernes
+**Today's Progress**: Sigo el proyecto de frontednmentor y con js regukra expression de freecodecamp.
+**Thoughts** :  Completo frasco del primer dia comn css grid . ahhhhhhhhh
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
 
 
 
