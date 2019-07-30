@@ -537,6 +537,25 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
+### Day 80: Julio 28,Domingo
+**Today's Progress**: A las piñas con el layout con grid y js .
+**Thoughts** :  El freno con grid me desconcentro.
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 81: Julio 29,Lunes
+**Today's Progress**: js , literal matching con varias opciones , 
+**Thoughts** :  js en modo ejercicio hace las veces de un entretenimiento
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 82: Julio30,Martes
+**Today's Progress**: Css grid layout de Frontendmentor, pude ubicar bien el logo. 
+**Thoughts** :  pequeños avances
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+
 
 
 
