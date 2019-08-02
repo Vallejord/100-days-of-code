@@ -485,85 +485,102 @@ enserio en algun momento, el diseño en si.
 
 ### Day 71: Julio 14, Domingo
 **Today's Progress**: Frontendmentor , y tratando de aprender a usar method de array.reduce();
+
 **Thoughts** :  Github , te dominaré!!! jajajjaja
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 ### Day 72: Julio 16, Martes
 **Today's Progress**: Frontendmentor 
+
 **Thoughts** :  No pude clonar el repo completo de github en otra maquina.
+
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 ### Day 73: Julio 18, Jueves
 **Today's Progress**: Frontendmentor 
+
 **Thoughts** :  Falta menos.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 ### Day 74: Julio 19, Viernes
 **Today's Progress**: Frontendmentor , me faltan los botones de redes sociALES.
+
 **Thoughts** :  AHHHHHHHHH
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 ### Day 75: Julio 21, Domingo
 **Today's Progress**: Freecode camps me tuve varado 5 dias , y logre pasar algo usando rest operators
+
 **Thoughts** :  AHHHHHHHHH , ahora si, que alivio
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 ### Day 76: Julio 22, Lunes
 **Today's Progress**: Mas Freecodecamp. Retomo el layout.r1d
+
 **Thoughts** :  Falta menos!!
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 ### Day 77: Julio 23, Martes
 **Today's Progress**: Js Freecodecamp. Retomo el layout con grid , hice un branch nuevo en github.
+
 **Thoughts** :  Tengo que planificar antes de emepezar.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 ### Day 78: Julio 24, Miercoles
 **Today's Progress**: Sigo el proyecto de frontednmentor y con js regukra expression de freecodecamp.
+
 **Thoughts** :  Tengo que planificar antes de emepezar.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 ### Day 79: Julio 26,Viernes
 **Today's Progress**: Sigo el proyecto de frontednmentor y con js regukra expression de freecodecamp.
+
 **Thoughts** :  Completo frasco del primer dia comn css grid . ahhhhhhhhh
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 ### Day 80: Julio 28,Domingo
 **Today's Progress**: A las piñas con el layout con grid y js .
+
 **Thoughts** :  El freno con grid me desconcentro.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 ### Day 81: Julio 29,Lunes
 **Today's Progress**: js , literal matching con varias opciones , 
+
+
 **Thoughts** :  js en modo ejercicio hace las veces de un entretenimiento
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 ### Day 82: Julio 30,Martes
 **Today's Progress**: Css grid layout de Frontendmentor, pude ubicar bien el logo. 
+
 **Thoughts** :  pequeños avances
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 ### Day 83: Agosto 1,Jueves
 **Today's Progress**: Css grid layout de Frontendmentor, mejore las proporciones de la imagen y el texto. 
+
 **Thoughts** :  pequeños avances
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 ### Day 84: Agosto 2,Viernes
 **Today's Progress**: Css grid layout de Frontendmentor, pude agregar los iconos, y JS debugging en freecodecamp
+
 **Thoughts** :  Me falta menos, ayer tuve un avance!!!
+
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 
