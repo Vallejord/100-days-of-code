@@ -549,10 +549,21 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
-### Day 82: Julio30,Martes
+### Day 82: Julio 30,Martes
 **Today's Progress**: Css grid layout de Frontendmentor, pude ubicar bien el logo. 
 **Thoughts** :  pequeños avances
 
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 83: Agosto 1,Jueves
+**Today's Progress**: Css grid layout de Frontendmentor, mejore las proporciones de la imagen y el texto. 
+**Thoughts** :  pequeños avances
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 84: Agosto 2,Viernes
+**Today's Progress**: Css grid layout de Frontendmentor, pude agregar los iconos, y JS debugging en freecodecamp
+**Thoughts** :  Me falta menos, ayer tuve un avance!!!
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 
