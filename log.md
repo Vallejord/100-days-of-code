@@ -583,6 +583,20 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
+### Day 85: Agosto 3,Sabado
+**Today's Progress**: Mas del layout , detalles mas precisos
+
+**Thoughts** :  No fue una sesion intensa.
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 86: Agosto 4,Domingo
+**Today's Progress**: Hice algo mal con github, no puedo volver atras a un estado en el q estaba mas preciso.
+
+**Thoughts** :  Nahhhhhhhhh
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
 
 
 
