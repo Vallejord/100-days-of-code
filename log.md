@@ -597,6 +597,28 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
+### Day 87: Agosto 5,Lunes 
+**Today's Progress**: Js de freecodecamp y chequeo de github
+
+**Thoughts** :  quiero saber github!!!
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 88: Agosto 6,Martes 
+**Today's Progress**: Js de freecodecamp 
+
+**Thoughts** :  Podria haberme quedado mas!!!
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 89: Agosto 7,Martes 
+**Today's Progress**: Layout de FrontendMentor , no pude lograr los mismos resultados que la otra vez
+
+**Thoughts** :  Danmmmm!!!
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+
 
 
 
