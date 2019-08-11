@@ -611,10 +611,32 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
-### Day 89: Agosto 7,Martes 
+### Day 89: Agosto 7,Miercoles 
 **Today's Progress**: Layout de FrontendMentor , no pude lograr los mismos resultados que la otra vez
 
 **Thoughts** :  Danmmmm!!!
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+
+### Day 90: Agosto 8,Jueves 
+**Today's Progress**: Layout de FrontendMentor , mejorar line-height.
+
+**Thoughts** :  cada vez sde parece mas!!!
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 91: Agosto 10,Sabado 
+**Today's Progress**: Layout de FrontendMentor , mejorar line-height paddings
+
+**Thoughts** :  vi otross resultados y elmio esta muy bien en comparacion!!!
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 92: Agosto 11,Domingo
+**Today's Progress**: Layout de FrontendMentor , boton> color,backgrounf y border-radius,falta darle bien a la sombra
+
+**Thoughts** :  voy a pedir ayuda para los detalles!!!
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
