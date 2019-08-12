@@ -640,6 +640,14 @@ enserio en algun momento, el diseño en si.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
+### Day 93: Agosto 12,Lunes
+**Today's Progress**: Layout de FrontendMentor , mejore la sombra y separe los botones de redes sociales, me falta testear en chrome
+y hacer la web responsive.Github viene vbien
+
+**Thoughts** :  voy a pedir ayuda para los detalles!!!
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
 
 
 
