@@ -648,6 +648,37 @@ y hacer la web responsive.Github viene vbien
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
+### Day 94: Agosto 13,Martes
+**Today's Progress**: Layout de FrontendMentor ,trate de mejorar para chrome.
+
+**Thoughts** :  Pacienciaaaaa... se aprende mucho de los errores igual
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 95: Agosto 14,Miercoles
+**Today's Progress**: Layout de FrontendMentor , sigo con chrome, me va a faltar explorer y safari, como hacer mara mc os?
+
+**Thoughts** :  gonig the distance. tengo que hacer un portfolio
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 96: Agosto 15,Jueves
+**Today's Progress**: revise JS
+**Thoughts** :  AL terminar los 100 dias, no mas tutoriales!
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 73: Agosto 16,Viernes
+**Today's Progress**: Layout de FrontendMentor ,paa mobile con media queries.
+
+**Thoughts** :  Faltan 3 dias, quiero terminar!!
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+
+
+
+
 
 
 
