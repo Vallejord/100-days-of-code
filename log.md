@@ -668,10 +668,17 @@ y hacer la web responsive.Github viene vbien
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
-### Day 73: Agosto 16,Viernes
+### Day 97: Agosto 16,Viernes
 **Today's Progress**: Layout de FrontendMentor ,paa mobile con media queries.
 
 **Thoughts** :  Faltan 3 dias, quiero terminar!!
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+### Day 98: Agosto 17,Sabado
+**Today's Progress**: Layout de FrontendMentor ,avance con responsive
+
+**Thoughts** :  Un capo San Martin.
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
