@@ -683,6 +683,14 @@ y hacer la web responsive.Github viene vbien
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
 
+### Day 99: Agosto 18,domingo
+**Today's Progress**: Layout de FrontendMentor ,mas responsive + github pages
+
+**Thoughts** :  Un capo San Martin.
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+
 
 
 
