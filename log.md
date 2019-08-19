@@ -690,6 +690,14 @@ y hacer la web responsive.Github viene vbien
 
 **Link(s) to work** : https://github.com/Vallejord/mentor-1
 
+### Day 100: Agosto 19,Lunes
+**Today's Progress**: Layout de FrontendMentor ,trate de hacer a imagen responsive y sbu a github pages
+
+**Thoughts** :  Lo HICE!!!!!!!!
+
+**Link(s) to work** : https://github.com/Vallejord/mentor-1
+
+https://vallejord.github.io/mentor-1/
 
 
 
